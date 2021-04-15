@@ -41,11 +41,11 @@ function formatabla() {
         renglon.appendChild(but);
 
 
-        lab.setAttribute("class", "col col-lg-2");
+        lab.setAttribute("class", "col col-2");
         lab.setAttribute("class", "hour");
         lab.appendChild(textRo2);
 
-        inp.setAttribute("class", "col col-lg-8");
+        inp.setAttribute("class", "col col-8");
         inp.setAttribute("class", "inptexto");
         inp.setAttribute("id", "c" + i);
         inp.setAttribute("type", "text");
@@ -65,7 +65,7 @@ function formatabla() {
    
         but.setAttribute("type", "submit");
         but.setAttribute("value", "Save");
-        but.setAttribute("class", "col col-lg-2");
+        but.setAttribute("class", "col col-2");
         but.setAttribute("class", "saveBtn");
 
     }
