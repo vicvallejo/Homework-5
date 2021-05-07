@@ -1,4 +1,4 @@
-# Homework-5
+# Daily Planner
 
 This App is daily planner
 
